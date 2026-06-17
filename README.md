@@ -29,7 +29,7 @@
 
 <td width="40%" align="center">
 
-<img src="./assets/naruto.gif" width="260"/>
+<img src="./assets/naruto2.gif" width="260"/>
 
 </td>
 
