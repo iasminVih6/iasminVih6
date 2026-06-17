@@ -23,6 +23,7 @@
 - 💻 Passionate about **Software Development**
 - 🤖 Interested in **Backend Development**, **Artificial Intelligence** and **IT support**
 - 🌱 Always improving my programming skills
+- 🏎️ LV&DAQ Trainee at B'Energy Racing
 
 
 </td>
