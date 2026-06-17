@@ -21,9 +21,9 @@
 
 - 🎓 Systems Analysis and Development Student at **FACENS**
 - 💻 Passionate about **Software Development**
-- 🤖 Interested in **Backend Development**, **Artificial Intelligence** and **Automation**
+- 🤖 Interested in **Backend Development**, **Artificial Intelligence** and **IT support**
 - 🌱 Always improving my programming skills
-- 🌍 Goal: Become a Software Engineer and contribute to impactful projects.
+
 
 </td>
 
@@ -51,7 +51,6 @@
 - 🌐 HTML & CSS
 - ⚙️ Git & GitHub
 - 🤖 Artificial Intelligence
-- 🔄 Automation with n8n
 - 🧠 Software Engineering
 
 </td>
