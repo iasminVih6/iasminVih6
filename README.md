@@ -58,7 +58,7 @@
 
 <td width="40%" align="center">
 
-<img src="./assets/naruto.gif" width="220"/>
+<img src="./assets/tokito.gif" width="220"/>
 
 </td>
 
