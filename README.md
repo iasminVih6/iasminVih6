@@ -4,7 +4,7 @@
 
 ### Systems Analysis and Development Student at FACENS
 
-📍 Votorantim, São Paulo - Brazil
+📍 Votorantim, São Paulo • Brazil
 
 *"Always learning, always building."*
 
@@ -15,21 +15,21 @@
 <table>
 <tr>
 
-<td width="55%">
+<td width="60%" valign="top">
 
 ## 🚀 About Me
 
-- 🎓 Systems Analysis and Development student at **FACENS**
+- 🎓 Systems Analysis and Development Student at **FACENS**
 - 💻 Passionate about **Software Development**
-- 🤖 Interested in **Backend** and **IT support**
-- 🌱 Constantly improving my programming skills
-
+- 🤖 Interested in **Backend Development**, **Artificial Intelligence** and **Automation**
+- 🌱 Always improving my programming skills
+- 🌍 Goal: Become a Software Engineer and contribute to impactful projects.
 
 </td>
 
-<td width="45%" align="center">
+<td width="40%" align="center">
 
-<img src="https://media.tenor.com/qUQ7LnmJbfsAAAAC/naruto.gif" width="280"/>
+<img src="./assets/naruto.gif" width="260"/>
 
 </td>
 
@@ -41,7 +41,7 @@
 <table>
 <tr>
 
-<td width="55%">
+<td width="60%" valign="top">
 
 ## 📚 Currently Learning
 
@@ -50,14 +50,15 @@
 - 🗄️ SQL
 - 🌐 HTML & CSS
 - ⚙️ Git & GitHub
-- 🤖 AI & Automation
+- 🤖 Artificial Intelligence
+- 🔄 Automation with n8n
 - 🧠 Software Engineering
 
 </td>
 
-<td width="45%" align="center">
+<td width="40%" align="center">
 
-<img src="https://media.tenor.com/4M57N8vLQ7gAAAAC/naruto-uzumaki.gif" width="260"/>
+<img src="./assets/naruto.gif" width="220"/>
 
 </td>
 
@@ -70,7 +71,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,c,git,github,vscode,windows&perline=6"/>
+<img src="https://skillicons.dev/icons?i=java,python,mysql,html,css,c,git,github,vscode,windows&perline=5"/>
 
 </div>
 
@@ -80,9 +81,9 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=<SEU_USUARIO>&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=iasminVih6&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<SEU_USUARIO>&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iasminVih6&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -92,7 +93,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=<SEU_USUARIO>&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=iasminVih6&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -102,12 +103,9 @@
 
 <div align="center">
 
-<a href="<LINKEDIN>">
-<img src="https://www.linkedin.com/in/iasminvitoria/" width="50"/>
+<a href="https://www.linkedin.com/in/iasminvitoria/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
 </a>
-
-&nbsp;&nbsp;
-
 
 </div>
 
@@ -115,6 +113,6 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=<SEU_USUARIO>&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=iasminVih6&color=blueviolet&style=for-the-badge)
 
 </div>
