@@ -20,10 +20,10 @@
 ## 🚀 About Me
 
 - 🎓 Systems Analysis and Development Student at **FACENS**
-- 💻 Passionate about **Software Development**
-- 🤖 Interested in **Backend Development**, **Artificial Intelligence** and **IT support**
+- 💻 Passionate about **Numbers**
+- 🤖 Interested in **Data Engineering** and **Artificial Intelligence**
 - 🌱 Always improving my programming skills
-- 🏎️ LV&DAQ Trainee at B'Energy Racing
+- 🏎️ DAQ Developer at B'Energy Racing
 
 
 </td>
@@ -46,13 +46,11 @@
 
 ## 📚 Currently Learning
 
-- ☕ Java
 - 🐍 Python
 - 🗄️ SQL
-- 🌐 HTML & CSS
 - ⚙️ Git & GitHub
 - 🤖 Artificial Intelligence
-- 🧠 Software Engineering
+- 🧠 ETL, Data
 
 </td>
 
